@@ -1,0 +1,15 @@
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/obj/Debug/net6.0/Practice_Virtual_Override.csproj.AssemblyReference.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/obj/Debug/net6.0/Practice_Virtual_Override.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/obj/Debug/net6.0/Practice_Virtual_Override.AssemblyInfoInputs.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/obj/Debug/net6.0/Practice_Virtual_Override.AssemblyInfo.cs
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/obj/Debug/net6.0/Practice_Virtual_Override.csproj.CoreCompileInputs.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/bin/Debug/net6.0/Practice_Virtual_Override
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/bin/Debug/net6.0/Practice_Virtual_Override.deps.json
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/bin/Debug/net6.0/Practice_Virtual_Override.runtimeconfig.json
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/bin/Debug/net6.0/Practice_Virtual_Override.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/bin/Debug/net6.0/Practice_Virtual_Override.pdb
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/obj/Debug/net6.0/Practice_Virtual_Override.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/obj/Debug/net6.0/refint/Practice_Virtual_Override.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/obj/Debug/net6.0/Practice_Virtual_Override.pdb
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/obj/Debug/net6.0/Practice_Virtual_Override.genruntimeconfig.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_Virtual_Override/Practice_Virtual_Override/obj/Debug/net6.0/ref/Practice_Virtual_Override.dll

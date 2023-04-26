@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E422F1EC-B6EA-4DAA-BB79-19A40F684F2B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Practice__Virtual__Override PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice_Virtual_Override/Program.cs">
+    <Files>
+      <File FileName="Practice_Virtual_Override/Program.cs" Line="34" Column="1" />
+      <File FileName="Practice_Virtual_Override/BankAccount.cs" Line="37" Column="1" />
+      <File FileName="Practice_Virtual_Override/CheckingAccount.cs" Line="31" Column="39" />
+      <File FileName="Practice_Virtual_Override/SavingsAccount.cs" Line="25" Column="40" />
+      <File FileName="Practice_Virtual_Override/RetirementAccount.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
