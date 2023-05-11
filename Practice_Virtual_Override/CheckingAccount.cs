@@ -2,33 +2,50 @@
 {
     internal class CheckingAccount : BankAccount
     {
-        public double OverdraftFee { get; set; }
+        public double OverdraftFee {get; set;}
 
+        
         public CheckingAccount(string name, double balance, double overdraftFee)
             : base(name, balance)
         {
             OverdraftFee = overdraftFee;
         }
-        public override bool Withdraw(double amount)
+
+        public override bool Deposit(double amount)
         {
-            if (amount >= 0 && amount <= Balance)
+            if (amount >= 0)
             {
-                Balance -= amount;
+                Balance += amount;
                 return true;
-            }
-            else if (amount < 0)
-            {
-                return false;
             }
             else
             {
-                Balance -= OverdraftFee;
-                return true;
+                return false;
+            }
+        }
+        public override bool Withdraw(double amount)
+        {
+            if (amount >= 0)
+            {
+                if (Balance >= amount)
+                {
+                    Balance -= amount;
+                    return true;
+                }
+                else
+                {
+                    Balance -= OverdraftFee;
+                    return false;
+                }
+            }
+            else
+            {
+                return false;
             }
         }
         public override string ToString()
         {
-            return $"{base.ToString()}: Overdraft Fee {OverdraftFee:C}";
+            return base.ToString()+$": Overdraft Fee {OverdraftFee:C}";
         }
 
     }//Class

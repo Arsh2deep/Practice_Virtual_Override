@@ -12,17 +12,33 @@
 
         public override bool Deposit(double amount)
         {
-            if (base.Deposit(amount))
+            if (amount <= 0)
+                return false;
+
+            Balance += amount;
+            Balance += (Balance * Interest);
+            return true;
+        }
+        public override bool Withdraw(double amount)
+        {
+            if (amount <= 0)
+                return false;
+
+            if (Balance >= amount)
             {
-                Balance += Balance * Interest / 100;
+                Balance -= amount;
+                Balance += (Balance * Interest);
                 return true;
             }
-            return false;
+            else
+            {
+                return false;
+            }
         }
 
         public override string ToString()
         {
-            return $"{base.ToString()}: Interest {Interest}%";
+            return $"{base.ToString()}: Interest {Interest:P}";
         }
     }
 }
